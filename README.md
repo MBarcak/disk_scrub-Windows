@@ -48,7 +48,7 @@ pip install pythondialog
 
 程序主函数位于scrub.py文件中，使用该程序先进入程序根文件夹通过命令`python scrub.py`即可启动运行，启动后效果如下：
 
-![运行界面](./picture/1.png ''运行界面'')
+[![运行界面](https://s3.ax1x.com/2021/02/24/yXJhlD.png)](https://imgtu.com/i/yXJhlD)
 
 共有三种功能：
 
@@ -61,12 +61,13 @@ pip install pythondialog
 输入序号即可选择功能。
 第一种功能：
 
-![功能一](./picture/2.png ''功能一'')
+[![功能一](https://s3.ax1x.com/2021/02/24/yXJ5OH.png)](https://imgtu.com/i/yXJ5OH)
 
 第二种功能：
 
-![功能二](./picture/3.png ''功能二'')
+[![功能二](https://s3.ax1x.com/2021/02/24/yXJ46e.png)](https://imgtu.com/i/yXJ46e)
 
 第三种功能：
 
-![功能三](./picture/4.png ''功能三'')
+[![功能三](https://s3.ax1x.com/2021/02/24/yXJfSO.png)](https://imgtu.com/i/yXJfSO)
+
