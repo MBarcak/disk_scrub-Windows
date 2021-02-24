@@ -1,0 +1,7 @@
+﻿  test.cpp
+c:\users\mkjk\desktop\disk_scrub\dll\test\test\test.cpp(68): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+c:\users\mkjk\desktop\disk_scrub\dll\test\test\test.cpp(38): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+  LINK : 没有找到 C:\Users\mkjk\Desktop\disk_scrub\dll\Test\Debug\Test.dll 或上一个增量链接没有生成它；正在执行完全链接
+    正在创建库 C:\Users\mkjk\Desktop\disk_scrub\dll\Test\Debug\Test.lib 和对象 C:\Users\mkjk\Desktop\disk_scrub\dll\Test\Debug\Test.exp
+  Test.vcxproj -> C:\Users\mkjk\Desktop\disk_scrub\dll\Test\Debug\Test.dll
